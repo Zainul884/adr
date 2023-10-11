@@ -7,7 +7,7 @@ Proposed
 **Context**
 
 To further enhance and properly deliver the app's main requirements we require additional programs and frameworks. More information regarding them is listed below: 
-Offline Capabilities: Technology that provides offline-first strategies and tools are necessary to provide a smooth offline experience for users.  
+1. Offline Capabilities: Technology that provides offline-first strategies and tools are necessary to provide a smooth offline experience for users.  
 Push Notifications: Notification systems and technologies are necessary to provide users with accurate and timely notifications according to their preferences. 
 Payment Gateway Integration: Different secure payment processing systems are needed to allow users multiple ways to checkout safely. 
 User Behavior Tracking: Analytical and monitoring tools that can gather and analyze user data are necessary so that the developer can enhance their app and provide users with a better overall experience.
