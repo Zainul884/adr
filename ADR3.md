@@ -1,4 +1,4 @@
-## **ADR 3:**
+## **ADR 3: Backend Language Selection**
 
 **Status**
 
