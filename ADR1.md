@@ -1,4 +1,4 @@
-## **ADR 1:**
+## **ADR 1: Deciding The App Type**
 
 **Status**
 
