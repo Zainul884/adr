@@ -31,7 +31,8 @@ Offline Capabilities: Native apps can easily integrate with the local storage of
 
 Easier:
 1. Optimized Performance & Integration: Native apps are specifically tailored and designed for the operating system and device they will be running on. Due to this, load times and responsiveness are faster and they are much more deeply integrated with their ecosystem which includes the hardware and software of their device.
-2. Advanced Offline Capabilities: Native apps have one of the best offline capabilities compared to other app types such as Hybrid due to the direct access they have to their devices' resources.   Access To Latest Features: Native apps are easily able to access the newest features of their respective OS which allows for faster updates and optimization to developing technologies. 
+2. Advanced Offline Capabilities: Native apps have one of the best offline capabilities compared to other app types such as Hybrid due to the direct access they have to their devices' resources.
+3. Access To Latest Features: Native apps are easily able to access the newest features of their respective OS which allows for faster updates and optimization to developing technologies. 
 
 Difficult:
 1. Dedicated Development For Platform: Native apps are specifically designed for the OS they will be operating on. Due to this, it is necessary that developers know all the OS’ that their app will be functioning on (which requires extra training), or that there will be different developers for each OS to ensure the highest quality (which requires extra staff and increases staff costs).
