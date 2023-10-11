@@ -1,4 +1,4 @@
-## **ADR 6:**
+## **ADR 6: Additional Frameworks and Technology Stacks**
 
 **Status**
 
