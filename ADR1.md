@@ -7,6 +7,7 @@ Proposed
 **Context**
 
 We are trying to create a retail app which can allow users to shop online/offline, receive push notifications, allow users multiple safe ways to pay, track user behaviour which can be used to enhance the app, display product images optimally to improve the speed and appearance of the app, and be capable of catering to multiple regions and languages all across the world. The three main choices are a native, web, or hybrid app type.  Please read the below details for more information: 
+
 1. Offline Capabilities: The user must be able to browse products and view their order history even when they are not connected to the internet and the app should 
 sync data when an internet connection is available.
 2. Push Notifications: The retail company has to be able to send push notifications to customers to inform them about order updates, new product arrivals, and   
