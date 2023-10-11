@@ -1,4 +1,4 @@
-## **ADR 2:Choosing the UI Framework**
+## **ADR 2: Choosing the UI Framework**
 
 **Status**
 
