@@ -1,4 +1,4 @@
-## **ADR 5:**
+## **ADR 5: Data Storage Options**
 
 **Status**
 
