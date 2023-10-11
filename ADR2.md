@@ -2,11 +2,11 @@
 
 Choosing The UI Framework 
 
-What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+**What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?**
 
 Proposed
 
-What is the issue that we're seeing that is motivating this decision or change?
+**What is the issue that we're seeing that is motivating this decision or change?**
 
 The app needs to have a consistent UI both online/offline, responsive and interactive push notifications, seamless transitions and animations during the checkout process, non-intrusive user behaviour tracking, seamless image display, and to be adaptive to different regions, languages, and cultures all around the world. Further details are provided below:
 
@@ -22,7 +22,7 @@ Optimal Image Display: The UI needs to display images and visuals seamlessly so 
 
 International Expansion: A UI that can cater and adapt to different languages and cultures is essential to aid the company in achieving its international goals.
 
-What is the change that we're proposing and/or doing?
+**What is the change that we're proposing and/or doing?**
 
 We have decided to choose Flutter for the following reasons:
 
@@ -38,7 +38,7 @@ Optimal Image Display: Flutter uses widgets such as ‘Image. Network’ that in
 
 International Expansion: Flutter provides developers with an internalization package which allows them to customize various UI components and ensure that these elements (i.e. date formats, text elements) automatically adjust to cater to different cultures and languages.
 
-What becomes easier or more difficult to do because of this change?
+**What becomes easier or more difficult to do because of this change?**
 
 Easier:
 
