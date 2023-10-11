@@ -1,4 +1,4 @@
-## **ADR 4:**
+## **ADR 4: Deciding Permissions Control**
 
 **Status**
 
