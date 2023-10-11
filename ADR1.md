@@ -1,12 +1,12 @@
-##  ADR 1:
+**##  ADR 1:**
 
 Deciding the App Type
 
-What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+**What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?**
 
 Proposed
 
-What is the issue that we're seeing that is motivating this decision or change?
+**What is the issue that we're seeing that is motivating this decision or change?**
 
 We are trying to create a retail app which can allow users to shop online/offline, receive push notifications, allow users multiple safe ways to pay, track user behaviour which can be used to enhance the app, display product images optimally to improve the speed and appearance of the app, and be capable of catering to multiple regions and languages all across the world. The three main choices are a native, web, or hybrid app type.  Please read the below details for more information:
 
@@ -22,7 +22,7 @@ Optimal Image Display: The app will display product images that are different in
 
 International Expansion: The retail company wants to expand its customer base internationally. To ensure the success of this goal, the app should support multiple languages and adapt to various cultural preferences.
 
-What is the change that we're proposing and doing?
+**What is the change that we're proposing and doing?**
 
 Keeping the requirements mentioned in mind, we have decided to choose native as our app type.
 
@@ -40,9 +40,9 @@ Optimal Image Display: Native apps are designed to efficiently use the GPU of th
 
 International Expansion: Native has “Native Development Environments” such as Xcode (iOS) and Android Studio (Android) which offer tools such as localization and internalization that allow the app to easily cater to different cultures and languages.
 
-What becomes easier or more difficult to do because of this change?
+**What becomes easier or more difficult to do because of this change?**
 
-Easier:
+###Easier:
 
 Optimized Performance & Integration: Native apps are specifically tailored and designed for the operating system and device they will be running on. Due to this, load times and responsiveness are faster and they are much more deeply integrated with their ecosystem which includes the hardware and software of their device.
 
@@ -50,7 +50,7 @@ Advanced Offline Capabilities: Native apps have one of the best offline capabili
 
  Access To Latest Features: Native apps are easily able to access the newest features of their respective OS which allows for faster updates and optimization to developing technologies.
 
-Difficult:
+###Difficult:
 
 Dedicated Development For Platform: Native apps are specifically designed for the OS they will be operating on. Due to this, it is necessary that developers know all the OS’ that their app will be functioning on (which requires extra training), or that there will be different developers for each OS to ensure the highest quality (which requires extra staff and increases staff costs).
 
